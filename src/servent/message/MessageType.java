@@ -1,0 +1,7 @@
+package servent.message;
+
+public enum MessageType {
+	TRANSACTION, LY_MARKER, LY_TELL,
+	REJECT_MARKER, REJECT_COLLECTOR,
+	ROUND_MESSAGE, ROUND_RESPONSE_MESSAGE
+}

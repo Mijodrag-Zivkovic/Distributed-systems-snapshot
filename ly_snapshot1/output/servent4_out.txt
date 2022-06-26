@@ -1,0 +1,52 @@
+06:26:12 - Starting servent [4|localhost|1500]
+06:26:12 - Pausing for 500 ms
+
+
+06:26:12 - Pausing for 15000 ms
+
+
+06:26:13 - izasao iz collecting whilea
+06:26:13 - pozvan marker event
+06:26:13 - snapshot_init: 4 snapshot_no: 1
+06:26:13 - postavljam se za root sa id-jem 4
+06:26:13 - saljem poruke drugima
+06:26:13 - saljem poruku komsiji 3
+06:26:13 - saljem poruku komsiji 5
+06:26:13 - poslao zahteve
+06:26:17 - obelezavam odgovor od 5
+06:26:19 - obelezavam odgovor od 3
+06:26:20 - rezultati stigli
+06:26:20 - Recorded bitcake amount for 4 = 1000
+06:26:20 - Recorded bitcake amount for 5 = 505
+06:26:20 - Recorded bitcake amount for 3 = 1298
+06:26:20 - Recorded bitcake amount for 6 = 809
+06:26:20 - Recorded bitcake amount for 2 = 542
+06:26:20 - Recorded bitcake amount for 1 = 782
+06:26:20 - Recorded bitcake amount for 0 = 877
+06:26:20 - Unreceived bitcake amount: 0 from servent 4 to servent 5
+06:26:20 - Unreceived bitcake amount: 0 from servent 4 to servent 3
+06:26:20 - Unreceived bitcake amount: 237 from servent 5 to servent 4
+06:26:20 - Unreceived bitcake amount: 0 from servent 5 to servent 6
+06:26:20 - Unreceived bitcake amount: 0 from servent 5 to servent 1
+06:26:20 - Unreceived bitcake amount: 0 from servent 3 to servent 4
+06:26:20 - Unreceived bitcake amount: 0 from servent 3 to servent 6
+06:26:20 - Unreceived bitcake amount: 0 from servent 3 to servent 2
+06:26:20 - Unreceived bitcake amount: 0 from servent 3 to servent 1
+06:26:20 - Unreceived bitcake amount: 260 from servent 6 to servent 5
+06:26:20 - Unreceived bitcake amount: 252 from servent 6 to servent 3
+06:26:20 - Unreceived bitcake amount: 192 from servent 6 to servent 2
+06:26:20 - Unreceived bitcake amount: 0 from servent 6 to servent 0
+06:26:20 - Unreceived bitcake amount: 246 from servent 2 to servent 3
+06:26:20 - Unreceived bitcake amount: 0 from servent 2 to servent 6
+06:26:20 - Unreceived bitcake amount: 0 from servent 2 to servent 1
+06:26:20 - Unreceived bitcake amount: 0 from servent 2 to servent 0
+06:26:20 - Unreceived bitcake amount: 0 from servent 1 to servent 5
+06:26:20 - Unreceived bitcake amount: 0 from servent 1 to servent 3
+06:26:20 - Unreceived bitcake amount: 0 from servent 1 to servent 2
+06:26:20 - Unreceived bitcake amount: 0 from servent 1 to servent 0
+06:26:20 - Unreceived bitcake amount: 0 from servent 0 to servent 6
+06:26:20 - Unreceived bitcake amount: 0 from servent 0 to servent 2
+06:26:20 - Unreceived bitcake amount: 0 from servent 0 to servent 1
+06:26:20 - My region bitcake count: 7000
+06:26:20 - Final sum: 0 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+06:26:27 - Stopping...

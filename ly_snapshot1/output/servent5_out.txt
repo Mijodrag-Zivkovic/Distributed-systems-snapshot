@@ -1,0 +1,29 @@
+06:26:12 - Starting servent [5|localhost|1600]
+06:26:12 - Pausing for 1000 ms
+
+
+06:26:13 - Pausing for 15000 ms
+
+
+06:26:14 - pozvan marker event
+06:26:14 - stigao marker od 4 a root je 4
+06:26:14 - povecavam snapshot no za collector 4
+06:26:14 - snapshot_init: 4 snapshot_no: 1
+06:26:14 - dodao sam se u region gde je root 4 a parent je 4
+06:26:14 - obelezavam odgovor od 4
+06:26:14 - saljem poruke drugima
+06:26:14 - saljem poruku komsiji 1
+06:26:14 - saljem poruku komsiji 6
+06:26:16 - dobili smo reject od 1
+06:26:16 - obelezavam odgovor od 1
+06:26:16 - pozvan marker event
+06:26:16 - stigao marker od 1 a root je 4
+06:26:16 - odbio sam potencijalnog parenta 1
+06:26:16 - pozvan marker event
+06:26:16 - stigao marker od 6 a root je 4
+06:26:16 - odbio sam potencijalnog parenta 6
+06:26:17 - dobili smo reject od 6
+06:26:17 - obelezavam odgovor od 6
+06:26:17 - sending results to parent -------------------------------
+
+06:26:28 - Stopping...
