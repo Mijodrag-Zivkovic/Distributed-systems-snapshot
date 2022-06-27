@@ -1,5 +1,5 @@
 # Distributed-systems-snapshot
-Implementation of special algorithm that enables multiple snapshots in a distributed system, as well as multiple nodes to call snapshot at the same time </br>
+Implementation of special algorithm that enables multiple snapshots in a distributed system, as well as multiple nodes to call snapshot at the same time. </br>
 In a distributed system with constant transactions between nodes, sometimes we want to check the state of a system, in other words, 
 how many of some currency there is in a system. This proccess is called snapshot. </br>
 
